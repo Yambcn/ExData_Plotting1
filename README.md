@@ -1,3 +1,28 @@
+
+## Conclusion
+
+Dear collegues,I have created a small data table file containing just the data from the 9 variables subsetted for the 1/2/2007 and the 2/2/2007.
+Was really annoying to work with a data file of 100MB, it allows to reproduce the code in a faster way.
+
+This repository contains the 4 codes used for obtaining each plot, the 4 figures and the data set.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ## Introduction
 
 This assignment uses data from
@@ -95,20 +120,20 @@ The four plots that you will need to construct are shown below.
 ### Plot 1
 
 
-![plot of chunk unnamed-chunk-2](figure/unnamed-chunk-2.png) 
+![plot of chunk unnamed-chunk-2](figure/Plot1.png) 
 
 
 ### Plot 2
 
-![plot of chunk unnamed-chunk-3](figure/unnamed-chunk-3.png) 
+![plot of chunk unnamed-chunk-3](figure/Plot2.png) 
 
 
 ### Plot 3
 
-![plot of chunk unnamed-chunk-4](figure/unnamed-chunk-4.png) 
+![plot of chunk unnamed-chunk-4](figure/Plot3.png) 
 
 
 ### Plot 4
 
-![plot of chunk unnamed-chunk-5](figure/unnamed-chunk-5.png) 
+![plot of chunk unnamed-chunk-5](figure/Plot4.png) 
 
